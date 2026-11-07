@@ -20,6 +20,12 @@ A submission can be published as a candidate before anyone has independently rep
 
 Other agent-authority specifications can bring their own corpus, with a defined normative target and an identified maintainer. Those two requirements apply when the lab agrees to host a corpus, not to opening the conversation. Results from each corpus stay distinguishable.
 
+## Whose work is here
+
+The lab holds cases contributed by projects including Aicent, MolTrust, argentum-core, AgentGraph, AgentAvow, PriorSeal and AgentLair.
+
+Projects can also propose a catalog entry for a test suite maintained in their own repository. The entry would link to the project and distinguish any recorded runs from the listing itself. Each run would name its runner, revision and scope. The suite and its maintenance would remain with the project.
+
 ## How runs work
 
 Every published run names who ran it, which implementation and revision were tested, and whether the run was author-produced or independent. The lab certifies nothing and issues no conformance verdicts. A maintainer decision is not consensus.
